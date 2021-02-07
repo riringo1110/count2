@@ -15,6 +15,7 @@
 		E0EF921825D00855008A829E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EF921625D00855008A829E /* LaunchScreen.storyboard */; };
 		E0EF922325D00855008A829E /* count2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EF922225D00855008A829E /* count2Tests.swift */; };
 		E0EF922E25D00855008A829E /* count2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EF922D25D00855008A829E /* count2UITests.swift */; };
+		E0EF923F25D00960008A829E /* CEC52E36-8337-4FEC-875A-BCA32946F021_1_105_c.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E0EF923E25D00960008A829E /* CEC52E36-8337-4FEC-875A-BCA32946F021_1_105_c.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E0EF922925D00855008A829E /* count2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = count2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0EF922D25D00855008A829E /* count2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = count2UITests.swift; sourceTree = "<group>"; };
 		E0EF922F25D00855008A829E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0EF923E25D00960008A829E /* CEC52E36-8337-4FEC-875A-BCA32946F021_1_105_c.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "CEC52E36-8337-4FEC-875A-BCA32946F021_1_105_c.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E0EF920F25D00854008A829E /* ViewController.swift */,
 				E0EF921125D00854008A829E /* Main.storyboard */,
 				E0EF921425D00855008A829E /* Assets.xcassets */,
+				E0EF923E25D00960008A829E /* CEC52E36-8337-4FEC-875A-BCA32946F021_1_105_c.jpeg */,
 				E0EF921625D00855008A829E /* LaunchScreen.storyboard */,
 				E0EF921925D00855008A829E /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				E0EF921825D00855008A829E /* LaunchScreen.storyboard in Resources */,
 				E0EF921525D00855008A829E /* Assets.xcassets in Resources */,
 				E0EF921325D00854008A829E /* Main.storyboard in Resources */,
+				E0EF923F25D00960008A829E /* CEC52E36-8337-4FEC-875A-BCA32946F021_1_105_c.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
